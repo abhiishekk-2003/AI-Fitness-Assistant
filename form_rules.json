@@ -1,0 +1,10 @@
+{
+  "pushup": {
+    "elbow_angle": [80, 170],
+    "hip_angle": [160, 180]
+  },
+  "squat": {
+    "knee_angle": [70, 170],
+    "hip_angle": [90, 180]
+  }
+}
