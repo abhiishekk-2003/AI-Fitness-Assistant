@@ -9,7 +9,7 @@ from ultralytics import YOLO
 from pose_utils import analyze_pushup, analyze_squat, analyze_plank
 
 # Configuration
-EXERCISE = 'pushup'  # Options: 'pushup' 'squat', 'plank'
+EXERCISE = 'pushup'  # Options: 'pushup', 'squat', 'plank'
 CONFIDENCE_THRESHOLD = 0.5
 
 # Load YOLOv8 pose model
